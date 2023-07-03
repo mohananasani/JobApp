@@ -1,0 +1,17 @@
+.profile-sub-container{
+    width: 222px;
+    margin: 12px;
+
+}
+.profile-img{
+
+}
+.retry-button-container{
+
+}
+.retry-button{
+    color: blue;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}

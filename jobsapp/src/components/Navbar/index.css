@@ -1,0 +1,57 @@
+.navbar-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: lightgrey;
+    box-shadow: -8px -9px 12px 12px grey;
+
+}
+.website-logo-container{
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background-image: linear-gradient(to right,green, yellow );
+    margin: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    padding: 4px;
+}
+.navigation-buttons-container{
+display: flex;
+}
+.navigation-button{
+    border: none;
+    width: 60px;
+    height: 25px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 4px 1px;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    color: azure;
+
+}
+.link-element{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+.logout-button{
+    width: 70px;
+    height: 30px;
+    border: none;
+    background: blue;
+    color: white;
+    border-radius: 5px;
+    margin: 20px;
+    cursor: pointer;
+
+}

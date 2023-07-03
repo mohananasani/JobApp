@@ -1,0 +1,40 @@
+.homepage{
+    width: 100%;
+    height: 100vh;
+}
+.homepage-body{
+    width: 100%;
+    height: 100%;
+   
+}
+h1{
+    text-align: center;
+    padding: 100px;
+    font-size: 48px;  
+}
+.button-content-container{
+    width: 55%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-left: 100px;
+}
+.content-container{
+    font-size: 27px;
+    font-family: sans-serif;
+}
+.find-jobs-button{
+    border: none;
+    width: 110px;
+    height: 40px;
+    border-radius: 9px;
+    background-color: #17ae44;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+.link-element{
+    text-decoration: none;
+}
